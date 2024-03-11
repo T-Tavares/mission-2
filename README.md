@@ -63,6 +63,6 @@ with both servers up, click on the link for the front end and try to analyse a c
 Big thanks to [Vlad](https://github.com/ntLeo/Mission-2/blob/main/src/components/ai-with-image.tsx).
 Your code helped me to make sense of this task.
 
-# Code Review
+# Code Reviews from
 
-I'm waiting for a good soul to help me with a code review. This spot is dedicated for you 😎
+[Nathan](https://github.com/Nathan51888)
